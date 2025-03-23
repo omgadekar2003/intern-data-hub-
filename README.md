@@ -77,14 +77,11 @@ This is a **RESTful API** built using **Node.js**, **Express.js**, and **MongoDB
 - Set `Authorization` header with `Bearer <token>` for protected routes
 
 ## 🏆 Special Thanks
-I never wanted to learn backend development, but **[Person Name]** inspired me to dive into it. Huge shoutout to **[YouTube Channel]**. **APPRECIATED!** 🎉
+I never wanted to learn backend development, but **Harsh Sharma** inspired me to dive into it. Huge shoutout to **Sheryians Coding School**. **APPRECIATED!** 🎉
 
 ---
 
 💡 *Feel free to contribute, open issues, or fork this repository!*  
 📌 **Author:** *Your Name*  
-📌 **GitHub:** [yourusername](https://github.com/yourusername)  
-📌 **LinkedIn:** [your-profile](https://linkedin.com/in/yourprofile)
-
-
-Replace `yourusername`, `your-repo-name`, and `your-profile` with your actual details. Let me know if you need modifications! 🚀
+📌 **GitHub:** [omgadekar2003](https://github.com/omgadekar2003)  
+📌 **LinkedIn:** [om gadekar](https://linkedin.com/in/omgadekar)
